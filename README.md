@@ -1,4 +1,6 @@
-# 🍕 r3f-cool-stuff
+# 🍕 r3f Cool stuff
+
+A loose collection of cool react-three-fiber related projects/demos/gifs/stuff/pizza
 
 ## Materials, Shaders
 
