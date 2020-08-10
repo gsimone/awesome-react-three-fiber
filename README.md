@@ -6,12 +6,21 @@ A loose collection of cool react-three-fiber related projects/demos/gifs/stuff/p
 
 ### Iridescent Material Shader by [@jongold](https://twitter.com/jongold)
 
-![](https://raw.githubusercontent.com/gsimone/r3f-cool-stuff/master/screenshots/iridescent.png)
+![](https://raw.githubusercontent.com/gsimone/awesome-react-three-fiber/master/screenshots/iridescent.png)
 
 https://twitter.com/jongold/status/1282715082472820742?s=21
 
 Based on https://github.com/DerSchmale/threejs-thin-film-iridescence
 
+
+## Demos
+
+### Rakes [https://yehrhrhehrg.com/](https://yehrhrhehrg.com/]*
+[![](https://raw.githubusercontent.com/gsimone/awesome-react-three-fiber/master/screenshots/rakes.jpg)](https://yehrhrhehrg.com/)
+
+[Code](https://github.com/nickmcmillan/rake)
+
+_* Yes, that's the right URL._
 
 ## Text
 
