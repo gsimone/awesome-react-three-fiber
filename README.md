@@ -4,7 +4,7 @@ A loose collection of cool react-three-fiber related projects/demos/gifs/stuff/p
 
 ## Materials, Shaders
 
-### Iridescent Material Shader by @jongold
+### Iridescent Material Shader by [@jongold](https://twitter.com/jongold)
 
 ![](https://raw.githubusercontent.com/gsimone/r3f-cool-stuff/master/screenshots/iridescent.png)
 
