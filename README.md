@@ -1,4 +1,4 @@
-# 🍕 r3f Cool stuff
+## 🍕 Awesome React Three Fiber
 
 A loose collection of cool react-three-fiber related projects/demos/gifs/stuff/pizza
 
