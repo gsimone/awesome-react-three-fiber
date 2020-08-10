@@ -15,7 +15,7 @@ Based on https://github.com/DerSchmale/threejs-thin-film-iridescence
 
 ## Demos
 
-### Rakes [https://yehrhrhehrg.com/](https://yehrhrhehrg.com/]*
+### Rakes [https://yehrhrhehrg.com/](https://yehrhrhehrg.com/)*
 [![](https://raw.githubusercontent.com/gsimone/awesome-react-three-fiber/master/screenshots/rakes.jpg)](https://yehrhrhehrg.com/)
 
 [Code](https://github.com/nickmcmillan/rake)
