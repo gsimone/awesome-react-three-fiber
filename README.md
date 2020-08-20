@@ -2,6 +2,12 @@
 
 A loose collection of cool react-three-fiber related projects/demos/gifs/stuff/pizza
 
+## Libraries
+
+- [react-postprocessing](https://github.com/react-spring/react-postprocessing)
+- [drei](https://github.com/react-spring/drei)
+
+
 ## Materials, Shaders
 
 ### Iridescent Material Shader by [@jongold](https://twitter.com/jongold)
