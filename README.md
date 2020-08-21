@@ -35,6 +35,7 @@ A whimsical illustration with parallax, depth of field and blowing leaves. Code 
 
 ### Text
 
+- [Three.js Tips and Tricks](https://discoverthreejs.com/tips-and-tricks/)
 - [Write your first VR web application using React and WebXR](https://blog.dubenko.dev/react-xr/) by [@dubenko_](https://twitter.com/dubenko_)
 - [How to Create Procedural Clouds Using Three.js Sprites](https://tympanus.net/codrops/2020/01/28/how-to-create-procedural-clouds-using-three-js-sprites/) by [Roberti Borghesi @dghez_](https://twitter.com/dghez_)
 
