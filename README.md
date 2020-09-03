@@ -19,7 +19,7 @@ https://twitter.com/jongold/status/1282715082472820742?s=21
 Based on https://github.com/DerSchmale/threejs-thin-film-iridescence
 
 
-## Demos
+## Made with R3F
 
 ### Rakes [https://yehrhrhehrg.com/](https://yehrhrhehrg.com/)*
 [![](https://raw.githubusercontent.com/gsimone/awesome-react-three-fiber/master/screenshots/rakes.jpg)](https://yehrhrhehrg.com/)
