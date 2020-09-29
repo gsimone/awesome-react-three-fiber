@@ -21,6 +21,11 @@ Based on https://github.com/DerSchmale/threejs-thin-film-iridescence
 
 ## Made with R3F
 
+### Dungeon Revealer [https://github.com/dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer)
+[![](https://user-images.githubusercontent.com/14338007/83942937-68312280-a7f8-11ea-9a63-8307f1c12d50.png)](https://github.com/dungeon-revealer/dungeon-revealer#readme)
+
+A web app for (remote) tabletop gaming that allows the game master to reveal areas of a game map to players, roll dice, chat and take notes.
+
 ### Rakes [https://yehrhrhehrg.com/](https://yehrhrhehrg.com/)*
 [![](https://raw.githubusercontent.com/gsimone/awesome-react-three-fiber/master/screenshots/rakes.jpg)](https://yehrhrhehrg.com/)
 
