@@ -1,6 +1,6 @@
 ### 🍕 Awesome React Three Fiber [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A loose collection of cool react-three-fiber related projects/demos/gifs/stuff/pizza
+A loose collection of cool [react-three-fiber](https://github.com/pmndrs/react-three-fiber) related projects/demos/gifs/stuff/pizza
 
 ## Libraries
 
