@@ -2,7 +2,7 @@
 
 # Poimandres links
 
-![Poimandres](./screenshots/poimandres.jpeg)
+![Poimandres](./screenshots/poimandres.png)
 
 - [Official website](https://pmnd.rs/)
 - [Github](https://github.com/pmndrs)
