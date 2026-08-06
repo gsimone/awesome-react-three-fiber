@@ -51,7 +51,7 @@
 - [r3f-perf](https://github.com/RenaudRohlinger/r3f-perf)
 - [three-material-editor](https://github.com/RenaudRohlinger/three-material-editor)
 - [use-r3f-assets](https://github.com/emmelleppi/use-r3f-assets)
-- [react-ai-voice-avatar](https://github.com/927tanmay/react-ai-voice-avatar)
+- [react-ai-voice-avatar](https://github.com/927tanmay/react-ai-voice-avatar) ([Live demo](https://react-ai-voice-avatar.vercel.app))
 
 # Gamedev
 
