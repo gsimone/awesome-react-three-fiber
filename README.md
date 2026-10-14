@@ -116,6 +116,7 @@
 | Dungeon Revealer | [link](https://github.com/dungeon-revealer/dungeon-revealer) |
 | Rakes            | [link](https://yehrhrhehrg.com/)                             |
 | Colmen's Quest   | [link](https://coldigames.itch.io/colmens-quest)             |
+| LearnAnatomy3D   | [link](https://learnanatomy3d.com)                           |
 
 # Contributing
 
